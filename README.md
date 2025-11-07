@@ -1,0 +1,2 @@
+# How-Data-Science-Transforms-the-Banking-Sector.
+This project explores how data science is revolutionizing the banking and financial sector by enhancing decision-making, improving customer experience, and increasing operational efficiency. Through advanced analytics, machine learning, and artificial intelligence, banks are leveraging data to offer smarter and more personalized financial services.
